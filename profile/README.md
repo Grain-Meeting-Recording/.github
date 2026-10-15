@@ -25,7 +25,7 @@ Searches such as Grain meeting recording, Grain call highlights, and Grain actio
 | **Remembers context** | Calls, clips, and presets help you return to the next task fast. |
 | **Fast feedback** | Open Grain, pick a call, and recap without switching tools. |
 
-![Grain](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE6vXsSxo3kjCZ52xfQn2t8xNQJD5IeZ-3cGnlBMVmUw&s)
+![Grain](https://www.notta.ai/pictures/grain-alternative-cover.png)
 
 ## Key Features of Grain
 
